@@ -1,0 +1,25 @@
+// WILD RUSH PCM REMIX
+// Otherwise known as "WILD RUSH (FROM NONSTOP MEGAMIX)"
+// This BG Script is for the ULTRAMIX 3 DLC version, with full charts.
+// BONUS: higher-res background, from the ULTRAMIX 3 DLC: https://i.imgur.com/A2oWrcp.png
+
+#BGCHANGES:8.000=ULTRAMIX3/ab_rythm_amoeba.avi=1.000=1=1=1=StretchRewind==CrossFade==,
+24.000=ULTRAMIX3/po_milk.avi=1.000=0=1=1=StretchRewind====,
+41.000=ULTRAMIX3/la_underwater.avi=1.000=0=1=1=StretchRewind====,
+57.000=ULTRAMIX3/po_city01.avi=1.000=0=1=1=StretchRewind====,
+73.000=ULTRAMIX3/ab_scope.avi=1.000=0=1=1=StretchRewind====,
+89.000=ULTRAMIX3/po_dancebeat.avi=1.000=0=1=1=StretchRewind====,
+104.000=ULTRAMIX3/ab_jelly.avi=1.000=0=1=1=StretchRewind====,
+120.000=ULTRAMIX3/la_underwater.avi=1.000=0=1=1=StretchRewind====,
+128.000=ULTRAMIX3/po_milk.avi=1.000=0=1=1=StretchRewind====,
+136.000=ULTRAMIX3/et_dna.avi=1.000=0=1=1=StretchRewind====,
+144.000=ULTRAMIX3/ab_rythm_amoeba.avi=1.000=0=1=1=StretchRewind====,
+152.000=ULTRAMIX3/la_underwater.avi=1.000=0=1=1=StretchRewind====,
+160.000=ULTRAMIX3/po_city01.avi=1.000=0=1=1=StretchRewind====,
+168.000=ULTRAMIX3/ab_scope.avi=1.000=0=1=1=StretchRewind====,
+176.000=ULTRAMIX3/ab_jelly.avi=1.000=0=1=1=StretchRewind====,
+184.000=ULTRAMIX3/et_dna.avi=1.000=0=1=1=StretchRewind====,
+192.000=ULTRAMIX3/la_underwater.avi=1.000=0=1=1=StretchRewind====,
+200.000=WILD RUSH (FROM NONSTOP MEGAMIX)-bg.png=0.000=1=1=1=StretchRewind==CrossFade==,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;

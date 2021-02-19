@@ -1,3 +1,7 @@
+// A
+// BONUS: ULTRAMIX 2 banner: https://i.imgur.com/a8aZzwT.png
+// Basically the same, but I swear it's slightly lighter than the ZIv version.
+
 #BGCHANGES:
 4.000=ULTRAMIX2/cy_15alaz04.avi=1.000=1=1=1=StretchRewind==CrossFade==,
 12.000=ULTRAMIX2/cy_mpc_dell.avi=1.000=0=1=1=StretchRewind==FadeLeft==,

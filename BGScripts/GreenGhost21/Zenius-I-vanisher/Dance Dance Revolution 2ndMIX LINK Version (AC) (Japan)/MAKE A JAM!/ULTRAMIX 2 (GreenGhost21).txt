@@ -1,3 +1,6 @@
+// MAKE A JAM!
+// BONUS: ULTRAMIX 2 banner: https://i.imgur.com/MDPEZk6.png
+
 #BGCHANGES:
 0.000=ULTRAMIX2/ab_cbe_big.avi=1.000=1=1=1=StretchRewind==CrossFade==,
 8.000=ULTRAMIX2/po_Cup_Cake01.avi=1.000=0=1=1=StretchRewind====,

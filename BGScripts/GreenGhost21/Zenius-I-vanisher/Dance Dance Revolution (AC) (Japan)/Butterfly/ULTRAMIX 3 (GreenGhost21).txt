@@ -1,3 +1,7 @@
+// Butterfly
+// BONUS: ULTRAMIX 3 background: https://i.imgur.com/bKz1Avu.png
+// Bemani just upscaled the old background for ULTRAMIX 3, though.
+
 #BGCHANGES:
 0.000=ULTRAMIX3/et_pinkflower.avi=1.000=0=1=1=StretchRewind====,
 7.000=ULTRAMIX3/po_particle.avi=1.000=0=1=1=StretchRewind====,

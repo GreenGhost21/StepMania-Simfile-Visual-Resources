@@ -1,0 +1,33 @@
+// STILL IN MY HEART (MOMO MIX) 
+// This BG Script is for the ULTRAMIX 4 version, with full charts.
+// BONUS: homemade Jacket in the ULTRAMIX 4 BG's style: https://i.imgur.com/xygI4UI.png
+
+#BGCHANGES:
+6.000=ULTRAMIX4/00_MSTTASUKU_LINE.avi=1.000=1=1=1=StretchRewind====,
+16.000=ULTRAMIX4/08_NEMO_HIGHLIGHT.avi=1.000=0=1=1=StretchRewind====,
+32.000=ULTRAMIX4/04_NEMO_HIGHLIGHT_2.avi=1.000=0=1=1=StretchRewind====,
+48.000=ULTRAMIX4/05_SATO_TUBE01.avi=1.000=0=1=1=StretchRewind====,
+64.000=ULTRAMIX4/05_ISI_BLOCK.avi=1.000=0=1=1=StretchRewind====,
+80.000=ULTRAMIX4/04_HITOSHI_FIRE_01.avi=1.000=0=1=1=StretchRewind====,
+112.000=ULTRAMIX4/03_KAZA_PARTICLE_01.avi=1.000=0=1=1=StretchRewind====,
+144.000=ULTRAMIX4/09_BOW_CUBETUNNEL.avi=1.000=0=1=1=StretchRewind====,
+148.000=ULTRAMIX4/04_NEMO_HIGHLIGHT_2.avi=1.000=0=1=1=StretchRewind====,
+152.000=ULTRAMIX4/05_BOW_WARP.avi=1.000=0=1=1=StretchRewind====,
+156.000=ULTRAMIX4/05_GAKU_KICHIJOJI_001.avi=1.000=0=1=1=StretchRewind====,
+160.000=ULTRAMIX4/05_ISI_BLOCK.avi=1.000=0=1=1=StretchRewind====,
+164.000=ULTRAMIX4/05_KAWATA_PIKA_01.avi=1.000=0=1=1=StretchRewind====,
+168.000=ULTRAMIX4/05_MSTSHIBA_ROOM.avi=1.000=0=1=1=StretchRewind====,
+172.000=ULTRAMIX4/07_HAND_CIRCLE.avi=1.000=0=1=1=StretchRewind====,
+176.000=ULTRAMIX4/04_MSTSHIBA_WATER.avi=1.000=0=1=1=StretchRewind====,
+210.000=ULTRAMIX4/09_BOW_CUBETUNNEL.avi=1.000=0=1=1=StretchRewind====,
+214.000=ULTRAMIX4/04_NEMO_HIGHLIGHT_2.avi=1.000=0=1=1=StretchRewind====,
+218.000=ULTRAMIX4/05_BOW_WARP.avi=1.000=0=1=1=StretchRewind====,
+222.000=ULTRAMIX4/05_GAKU_KICHIJOJI_001.avi=1.000=0=1=1=StretchRewind====,
+226.000=ULTRAMIX4/05_ISI_BLOCK.avi=1.000=0=1=1=StretchRewind====,
+230.000=ULTRAMIX4/05_KAWATA_PIKA_01.avi=1.000=0=1=1=StretchRewind====,
+234.000=ULTRAMIX4/05_MSTSHIBA_ROOM.avi=1.000=0=1=1=StretchRewind====,
+238.000=ULTRAMIX4/07_HAND_CIRCLE.avi=1.000=0=1=1=StretchRewind====,
+242.000=ULTRAMIX4/04_MSTTASUKU_LEAF.avi=1.000=0=1=1=StretchRewind====,
+250.000=sti3_bk.png=0.000=0=1=1=StretchRewind====,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;
