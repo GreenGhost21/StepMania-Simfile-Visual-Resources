@@ -1,0 +1,25 @@
+// LOGICAL DASH
+// Timing Fix by GreenGhost21
+// Freeze frames retaken by GreenGhost21; Put them in the song folder.
+// heart2f.png -- https://i.imgur.com/gHgoA4l.png
+// heart3f.png -- https://i.imgur.com/IXadc0g.png
+#BGCHANGES:
+36.000=MAX-EXTREME/Geometry1.avi=1.000=1=1=0,
+40.000=MAX-EXTREME/heart2.avi=1.000=0=0=1,
+44.000=MAX-EXTREME/Ribbon2.avi=1.000=0=0=1,
+48.000=MAX-EXTREME/fireworks1.avi=1.000=0=0=1,
+52.000=MAX-EXTREME/Smoke1.avi=1.000=0=0=1,
+65.000=MAX-EXTREME/Tunnel14.avi=0.700=0=0=1,
+76.000=MAX-EXTREME/Tunnel14R.avi=0.700=0=0=1,
+84.000=MAX-EXTREME/Geometry1.avi=1.000=0=0=1,
+100.000=MAX-EXTREME/Tunnel14.avi=0.900=0=1=0,
+108.000=MAX-EXTREME/Tunnel14R.avi=0.900=0=1=0,
+116.000=MAX-EXTREME/Geometry1.avi=1.000=0=0=1,
+128.000=heart2f.png,
+128.000=heart3f.png,
+132.000=MAX-EXTREME/Crystal1.avi=1.000=0=0=1,
+148.000=MAX-EXTREME/Smoke1.avi=1.000=0=0=1,
+164.000=MAX-EXTREME/Seaweed1.avi=1.000=0=0=1,
+174.000=LOGICAL DASH-bg.png=1.000=0=0=1,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;

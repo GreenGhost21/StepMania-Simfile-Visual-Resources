@@ -1,5 +1,8 @@
 # BG Scripts
-Folder hierarchy goes in order of:
+
+Scripts assume that the video sets are in their own respective folders inside the RandomMovies folder. 
+
+BGScript folder hierarchy goes in order of:
 1. Simfile Category (`Arcade` or `Microsoft Xbox`, as examples)
 2. Simfile Source (The dropdown on ZIv that takes you to the game's simfile group. Could also be a folder of user-made simfiles)
 3. Simfile Name
