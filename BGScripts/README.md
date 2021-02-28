@@ -1,16 +1,22 @@
 # BG Scripts
 Folder hierarchy goes in order of:
-1. Simfile source (`Zenius-I-vanisher`, for example)
-2. Simfile Group (The folder that the song belongs in; for ZIv, it'd be the Simfile Category)
+1. Simfile Category (`Arcade` or `Microsoft Xbox`, as examples)
+2. Simfile Source (The dropdown on ZIv that takes you to the game's simfile group. Could also be a folder of user-made simfiles)
 3. Simfile Name
-4. `.sm`, `.ssc`, or text file with `#BGCHANGES`/`#FGCHANGES` only, titled as `[Animations Source] ([Author Name]).
+4. `.sm`, `.ssc`, or text file with `#BGCHANGES`/`#FGCHANGES` only, titled as `[Script Source] ([Video Set]) {[Script Author]}.
 
 My `ULTRAMIX 3` Script for `Butterfly` would, for example, be in:
 
 ```
-Zenius-I-vanisher/Dance Dance Revolution (AC) (Japan)/Butterfly/ULTRAMIX3 (GreenGhost21).txt
+Arcade/Dance Dance Revolution (AC) (Japan)/Butterfly/ULTRAMIX3 (ULTRAMIX3) {GreenGhost21}.txt
 ```
 
-Different scripts for the same song, even from the same author, are allowed.
+Another example from the first post on the [BG Scripts thread](https://zenius-i-vanisher.com/v5.2/thread?threadid=4519) would be:
 
-Suggestions for alternative hierarchy orders are appreciated!
+```
+Arcade/DanceDanceRevolution SuperNOVA (AC) (International)/LOGICAL DASH/DDRMAX2 JP CS (MAX-EXTREME) {DarkFeline}
+```
+
+This hierarchy ought to be sufficiently clear and distinct for most cases.
+
+Suggestions for alternative hierarchy orders are still appreciated!
