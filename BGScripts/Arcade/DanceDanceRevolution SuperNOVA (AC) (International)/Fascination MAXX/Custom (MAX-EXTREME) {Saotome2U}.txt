@@ -33,6 +33,6 @@
 385.250=MAX-EXTREME/wires1.avi=1.000=0=1=1,
 393.000=MAX-EXTREME/tunnel10.avi=2.000=0=1=1,
 408.750=MAX-EXTREME/fire1.avi=2.000=0=1=1,
-415.750=fascination maxx-bg.png=1.000=0=0=1
+415.750=fascination maxx-bg.png,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;

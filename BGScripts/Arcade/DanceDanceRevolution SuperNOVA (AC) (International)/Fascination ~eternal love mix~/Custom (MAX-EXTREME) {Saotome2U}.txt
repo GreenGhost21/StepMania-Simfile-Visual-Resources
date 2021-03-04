@@ -59,6 +59,6 @@
 480.750=MAX-EXTREME/numbers1.avi=1=0=1=1,
 480.900=MAX-EXTREME/numbers1.avi=0.001=0=0=1,
 481.050=MAX-EXTREME/numbers1.avi=1=0=0=1,
-481.250=fascination -eternal love mix--bg.png
+481.250=fascination -eternal love mix--bg.png,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
