@@ -1,0 +1,24 @@
+// A
+// JM GAMING fixed the video rates using TikalFan9000's File2Normal trick
+#BGCHANGES:
+11.750=MAX-EXTREME/bubble1.avi=0.500=1=1=1=StretchRewind==CrossFade==,
+35.750=MAX-EXTREME/unicorn1.avi=0.500=0=1=1=StretchRewind====,
+67.750=MAX-EXTREME/bubble1.avi=0.500=0=1=1=StretchRewind====,
+85.750=MAX-EXTREME/snow4.avi=1.000=0=1=1=StretchRewind====,
+93.750=MAX-EXTREME/text5.avi=1.000=0=1=1=StretchRewind====,
+101.750=MAX-EXTREME/blizzard1.avi=1.000=0=1=1=StretchRewind====,
+109.750=MAX-EXTREME/square2a.avi=0.950=0=1=1=StretchRewind====,
+117.750=MAX-EXTREME/unicorn1.avi=1.250=0=1=1=StretchRewind====,
+133.750=MAX-EXTREME/snow4.avi=1.000=0=1=1=StretchRewind====,
+141.750=MAX-EXTREME/text5.avi=1.000=0=1=1=StretchRewind====,
+149.750=MAX-EXTREME/bubble1.avi=1.040=0=0=1=File2Normal=bubble1.avi===,
+181.750=MAX-EXTREME/snow4.avi=1.000=0=1=1=StretchRewind====,
+189.750=MAX-EXTREME/text5.avi=1.000=0=1=1=StretchRewind====,
+197.750=MAX-EXTREME/blizzard1.avi=1.000=0=1=1=StretchRewind====,
+205.750=MAX-EXTREME/unicorn1.avi=1.750=0=0=1=File2Normal=unicorn1.avi===,
+209.750=MAX-EXTREME/bubble1.avi=1.040=0=0=1=File2Normal=bubble1.avi===,
+213.750=MAX-EXTREME/unicorn1.avi=1.750=0=0=1=File2Normal=unicorn1.avi===,
+217.750=MAX-EXTREME/bubble1.avi=1.040=0=0=1=File2Normal=bubble1.avi===,
+221.750=MAX-EXTREME/A-bg.png=1.000=0=0=1=====,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;
