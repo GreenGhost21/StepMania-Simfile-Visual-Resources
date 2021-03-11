@@ -33,7 +33,7 @@
 148.550=MAX-EXTREME/piston1.avi=2=0=0=1,
 149.900=MAX-EXTREME/piston1.avi=0.001=0=0=1,
 150.050=MAX-EXTREME/piston1.avi=2=0=0=1,
-150.900=MAX-EXTREME/piston1.avi=0=0=0=1,
+150.900=MAX-EXTREME/piston1.avi=0.001=0=0=1, // Fixed "pause"
 151.050=MAX-EXTREME/piston1.avi=2=0=0=1,
 152.400=MAX-EXTREME/piston1.avi=0.001=0=0=1,
 152.550=MAX-EXTREME/piston1.avi=2=0=0=1,
