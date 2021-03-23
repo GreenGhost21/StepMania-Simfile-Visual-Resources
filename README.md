@@ -29,7 +29,7 @@ Extremely WIP, suggestions for organization are welcome.
 - [The excellent people at the BG Scripts thread on ZIv](https://zenius-i-vanisher.com/v5.2/thread?threadid=4519) for their BG Scripts and other contributions to the world of BG Scripting
 - [SDB13](https://zenius-i-vanisher.com/v5.2/user?userid=2644) for providing [the ULTRAMIX and UNIVERSE sets of videos](https://zenius-i-vanisher.com/v5.2/thread?threadid=4519&page=18#p430763).
 - [Beware](https://zenius-i-vanisher.com/v5.2/user?userid=7437) for [the EXTREME simulation](https://zenius-i-vanisher.com/v5.2/thread?threadid=5076) that inspired my passion for BG Scripts in StepMania, and [the BG Videos](http://ddr.bircd.org/) that are still almost exclusively used today for BG Scripts.
-- [Zenius-I-Vanisher](https://zenius-i-vanisher.com/v5.2/index.php) for providing the simfiles that these scripts are used with.
+- [zenius-i-vanisher.com](https://zenius-i-vanisher.com/v5.2/index.php) for providing the simfiles that these scripts are used with.
 - The StepMania team for creating StepMania.
-- All the artists who made the songs in the first place.
+- All of the artists who made the songs in the first place.
 - Konami and the Bemani team for making DanceDanceRevolution, an amazing series of video games.
