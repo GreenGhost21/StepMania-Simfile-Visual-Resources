@@ -1,3 +1,4 @@
-### DEAD END
-`DEAD END {beware}`
-Beware's EXTREME-Sim BGAnimations
+# Script Authors:
+
+### beware:
+> DEAD END — [Official EXTREME] {MAX-EXTREME}
