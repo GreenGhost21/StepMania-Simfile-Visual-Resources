@@ -1,0 +1,23 @@
+#BGCHANGES:
+12.000=ULTRAMIX/jrssma.avi=1.000=1=1=1, // Fade-in added, water
+20.000=ULTRAMIX/jrskya.avi=1.000=0=1=1, // skybox
+28.000=ULTRAMIX/jsjkla.avi=1.000=0=1=1, // lights
+36.000=ULTRAMIX/jcbist.avi=1.000=0=1=1, // zoom
+44.000=ULTRAMIX/jfwird.avi=1.000=0=1=1, // grid
+52.000=ULTRAMIX/jrskya.avi=1.000=0=1=1, // skybox
+60.000=ULTRAMIX/jrssma.avi=1.000=0=1=1, // water
+68.000=ULTRAMIX/jaffsb.avi=1.000=0=1=1, // fire
+76.000=ULTRAMIX/jfwirb.avi=1.000=0=1=1, // rings
+84.000=ULTRAMIX/jfwird.avi=1.000=0=1=1, // grid
+92.000=ULTRAMIX/jsjkla.avi=1.000=0=1=1, // lights
+100.000=ULTRAMIX/jrskya.avi=1.000=0=1=1, // skybox
+112.000=ULTRAMIX/jcbist.avi=1.000=0=1=1, // zoom
+124.000=ULTRAMIX/jaffsb.avi=1.000=0=1=1, // fire
+132.000=ULTRAMIX/jfwird.avi=1.000=0=1=1, // grid
+140.000=ULTRAMIX/jfwirb.avi=1.000=0=1=1, // rings
+148.000=ULTRAMIX/jrssma.avi=1.000=0=1=1, // water
+152.000=ULTRAMIX/jsjkla.avi=1.000=0=1=1, // lights
+156.000=ULTRAMIX/jcbist.avi=1.000=0=1=1, // zoom
+168.500=OVERBLAST!!-bg.png,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;

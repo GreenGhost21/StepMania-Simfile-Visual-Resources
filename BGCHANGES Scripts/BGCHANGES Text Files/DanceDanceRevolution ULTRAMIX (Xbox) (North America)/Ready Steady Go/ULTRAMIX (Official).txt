@@ -1,0 +1,27 @@
+#BGCHANGES:
+12.000=ULTRAMIX/jekepc.avi=1.000=1=1=1, // Text (Fade-in added)
+20.000=ULTRAMIX/jpstrb.avi=1.000=0=1=1, // Stars
+28.000=ULTRAMIX/jdinac.avi=1.000=0=1=1, // Lightning
+36.000=ULTRAMIX/jfwirb.avi=1.000=0=1=1, // Discs
+44.000=ULTRAMIX/jdlima.avi=1.000=0=1=1, // Equalizer
+52.000=ULTRAMIX/jcrens.avi=1.000=0=1=1, // Lights
+60.000=ULTRAMIX/jffrga.avi=1.000=0=1=1, // Rings
+76.000=ULTRAMIX/jaffsb.avi=1.000=0=1=1, // Flames
+84.000=ULTRAMIX/jpstrb.avi=1.000=0=1=1, // Stars
+92.000=ULTRAMIX/jffrga.avi=1.000=0=1=1, // Rings
+108.000=ULTRAMIX/jekepc.avi=1.000=0=1=1,// Text
+116.000=ULTRAMIX/jfwirb.avi=1.000=0=1=1,// Discs
+128.000=ULTRAMIX/jpstrb.avi=1.000=0=1=1,// Stars
+132.000=ULTRAMIX/jekepc.avi=1.000=0=1=1,// Text
+148.000=ULTRAMIX/jcrens.avi=1.000=0=1=1,// Lights
+156.000=ULTRAMIX/jfwirb.avi=1.000=0=1=1,// Discs
+164.000=ULTRAMIX/jaffsb.avi=1.000=0=1=1,// Flames
+172.000=ULTRAMIX/jpstrb.avi=1.000=0=1=1,// Stars
+180.000=ULTRAMIX/jdinac.avi=1.000=0=1=1,// Lightning
+188.000=ULTRAMIX/jekepc.avi=1.000=0=1=1,// Text
+196.000=ULTRAMIX/jffrga.avi=1.000=0=1=1,// Rings
+204.000=ULTRAMIX/jcrens.avi=1.000=0=1=1,// Lights
+208.000=ULTRAMIX/jpstrb.avi=1.000=0=1=1,// Stars
+212.000=Ready Steady Go-bg.png,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;
